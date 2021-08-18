@@ -7,7 +7,7 @@ namespace Vaccine_Registration
         
         static void Main(string[] args)
         {
-            Console.WriteLine("ID: ");
+            Console.WriteLine("Identification number: ");
             string IDnum = Console.ReadLine();
 
             Console.WriteLine("Surname: ");
